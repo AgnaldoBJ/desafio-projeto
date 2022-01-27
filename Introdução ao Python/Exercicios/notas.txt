@@ -1,0 +1,3 @@
+Agnaldo, 10,10,5,5Agnaldo, 10,10,5,5Agnaldo, 10,10,5,5Brito, 10,10,5,5
+
+Brito, 10,10,5,5
